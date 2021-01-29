@@ -1,0 +1,21 @@
+@media only screen and (min-width : 1200px) {
+
+  .container { width: 1500px; } 
+
+}
+
+.container{
+  margin-left: 0 !important;
+}
+
+.genres_button{
+  margin-left: 5%;
+}
+
+.row{
+  margin-top:2%
+}
+
+#adding_new_author_action{
+  margin-top:2%
+}
